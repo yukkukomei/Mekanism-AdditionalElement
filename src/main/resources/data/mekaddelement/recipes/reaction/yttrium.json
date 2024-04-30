@@ -1,0 +1,26 @@
+{
+  "type": "mekanism:reaction",
+  "itemInput": {
+    "amount": 1,
+    "ingredient": {
+      "tag": "forge:dusts/fluorite"
+    }
+  },
+  "fluidInput": {
+    "amount": 10,
+    "tag": "forge:heavy_water"
+  },
+  "gasInput": {
+    "amount": 100,
+    "gas": "mekaddelement:strontium"
+  },
+  "duration": 100,
+  "itemOutput": {
+    "item": "mekaddelement:dust_calcium_oxide",
+    "count": 1
+  },
+  "gasOutput": {
+    "gas": "mekaddelement:yttrium",
+    "amount": 100
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "itemGroup.mekaddelement_tab" : "Mekanism: AdditionalElement",
+
+  "fluid.mekaddelement.helium": "液体ヘリウム",
+  "item.mekaddelement.helium_bucket": "液体ヘリウム入りバケツ",
+  "gas.mekaddelement.helium": "ヘリウム",
+  "fluid.mekaddelement.superheated_helium": "過熱した液体ヘリウム",
+  "item.mekaddelement.superheated_helium_bucket": "過熱した液体ヘリウム入りバケツ",
+  "gas.mekaddelement.superheated_helium": "過熱したヘリウム",
+  "fluid.mekaddelement.strontium": "液体ストロンチウム",
+  "item.mekaddelement.strontium_bucket": "液体ストロンチウム入りバケツ",
+  "gas.mekaddelement.strontium": "ストロンチウム",
+  "fluid.mekaddelement.yttrium": "液体イットリウム",
+  "item.mekaddelement.yttrium_bucket": "液体イットリウム入りバケツ",
+  "gas.mekaddelement.yttrium": "イットリウム",
+  "item.mekaddelement.dust_calcium_oxide" : "酸化カルシウムの粉"
+}

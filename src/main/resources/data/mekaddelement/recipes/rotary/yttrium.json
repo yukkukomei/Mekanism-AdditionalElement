@@ -1,0 +1,19 @@
+{
+  "type": "mekanism:rotary",
+  "fluidInput": {
+    "fluid": "mekaddelement:yttrium",
+    "amount": 1
+  },
+  "gasOutput": {
+    "gas": "mekaddelement:yttrium",
+    "amount": 1
+  },
+  "gasInput": {
+    "gas": "mekaddelement:yttrium",
+    "amount": 1
+  },
+  "fluidOutput": {
+    "fluid": "mekaddelement:yttrium",
+    "amount": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "itemGroup.mekaddelement_tab" : "Mekanism: AdditionalElement",
+
+  "fluid.mekaddelement.helium": "Liquid Helium",
+  "item.mekaddelement.helium_bucket": "Liquid Helium Bucket",
+  "gas.mekaddelement.helium": "Helium",
+  "fluid.mekaddelement.superheated_helium": "Liquid SuperHeated Helium",
+  "item.mekaddelement.superheated_helium_bucket": "Liquid SuperHeated Helium Bucket",
+  "gas.mekaddelement.superheated_helium": "SuperHeated Helium",
+  "fluid.mekaddelement.strontium": "Liquid strontium",
+  "item.mekaddelement.strontium_bucket": "Liquid strontium Bucket",
+  "gas.mekaddelement.strontium": "strontium",
+  "fluid.mekaddelement.yttrium": "Liquid yttrium",
+  "item.mekaddelement.yttrium_bucket": "Liquid yttrium Bucket",
+  "gas.mekaddelement.yttrium": "yttrium",
+  "item.mekaddelement.dust_calcium_oxide" : "Calcium Oxide Dust"
+}
