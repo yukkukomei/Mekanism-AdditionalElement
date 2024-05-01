@@ -13,5 +13,5 @@ public class MAEItems {
 
     public static final ItemDeferredRegister ITEMS = new ItemDeferredRegister(MekanismAdditionalElement.MODID);
 
-    public static final ItemRegistryObject<Item> CALCIUM_OXIDE_DUST = ITEMS.register("dust_calcium_oxide", EnumColor.WHITE);
+    public static final ItemRegistryObject<Item> CALCIUM_OXIDE_DUST = ITEMS.register("dust_calcium_oxide");
 }
